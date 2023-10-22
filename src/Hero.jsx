@@ -8,10 +8,9 @@ const Hero = () => {
         <div className="hero-title">
           <h1>Contentful CMS</h1>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Incidunt
-            esse libero tempora earum ut. Ipsum natus eos distinctio aut et,
-            nostrum architecto qui quidem adipisci facilis vitae minus libero
-            labore!
+            Projects are the most practical way to learn any language, and React
+            is no exception. Here are some basic projects that a novice like me
+            create while I was learning React
           </p>
         </div>
         <div className="img-container">
